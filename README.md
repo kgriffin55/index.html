@@ -1,2 +1,6 @@
 # index.html
-Just a typing to see if its working.
+<!doctype html>
+<html>
+<title> Kendall's page </title>
+<body> <h1> HELLO </h1></body>
+</html>
